@@ -1,4 +1,6 @@
-# XMP (Extensible Metadata Platform)
+<img src="./xmp_tagline.png" width="150" align="right">
+
+# XMP (Extensible Metadata Platform) 
 
 The **Extensible Metadata Platform (XMP)** is an ISO standard, originally created by Adobe Systems Inc., for the creation, processing and interchange of standardized and custom metadata for digital documents and data sets.
 
@@ -6,17 +8,17 @@ XMP standardizes a data model, a serialization format and core properties for th
 
 **XMP Specification is divided into *three* parts**
 
-[Part 1, Data Model, Serialization, and Core Properties](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/xmp/pdfs/XMPSpecificationPart1.pdf)
+[Part 1, Data Model, Serialization, and Core Properties](./XMPSpecifications/XMPSpecificationPart1.pdf)
 
-[Part 2, Additional Properties](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/xmp/pdfs/XMPSpecificationPart2.pdf)
+[Part 2, Additional Properties](./XMPSpecifications/XMPSpecificationPart2.pdf)
 
-[Part 3, Storage in Files](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/xmp/pdfs/XMPSpecificationPart3.pdf)
+[Part 3, Storage in Files](./XMPSpecifications/XMPSpecificationPart3.pdf)
 
-## XMP Namespace definitions 
+## XMP namespace definitions 
 
 The namespaces define a set of properties. In any given XMP Packet, a property may be absent or present.For any given XMP, there is no requirement that all properties from a given namespace must be present. For structured properties, there is no requirement that all fields be present (unless otherwise specified by a namespace).
 
-XMP metadata may include properties from one or more of the namespaces. For example, a typical subset used by many Adobe applications might include the following: 
+XMP metadata may include properties from one or more of the namespaces. For example, a typical subset used by many Adobe applications might include the following: 	
 
 * Dublin Core namespace: **dc:title, dc:creator, dc:description, dc:subject, dc:format, dc:rights**
 * XMP basic namespace: **xmp:CreateDate, xmp:CreatorTool, xmp:ModifyDate, xmp:MetadataDate**
@@ -25,8 +27,8 @@ XMP metadata may include properties from one or more of the namespaces. For exam
 
 XMP defines namespaces into *two* catagories:
 
-*XMP standard namespaces*, provides namespace definitions for standard general-purpose namespaces.\
-*Specialized Namespaces*, provides namespace definitions for namespaces that are specialized for Adobe applications or usages
+1. *XMP standard namespaces*, provides namespace definitions for standard general-purpose namespaces.
+2. *Specialized Namespaces*, provides namespace definitions for namespaces that are specialized for Adobe applications or usages
 
 **XMP Standard Namespaces**
 
