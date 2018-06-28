@@ -34,13 +34,10 @@ In your pull request, outline:
 * If (and what) they breaks (TODO: we should have tests instead. pst: working on that ;) )
 * Start the pull request with the GitHub issue ID, e.g. #123
 
-
 Each commit message that is not part of a pull request:
 
 * Should contain the issue ID like `#123`
 * Can contain the tag `[trivial]` for trivial changes that don't relate to an issue
-
-
 
 ## Coding Styleguides
 
@@ -55,8 +52,8 @@ Feedback on the pull request will be given in writing, in GitHub.
 # Release Management
 
 The project's committers will release to the [Adobe organization on npmjs.org](https://www.npmjs.com/org/adobe).
-Please contact the [Adobe Open Source Advisory Board](https://git.corp.adobe.com/OpenSourceAdvisoryBoard/discuss/issues) to get access to the npmjs organization.
-Then, you can release using:
+
+Assuming you have access to this organization, you can release using:
 
 ```bash
 $ npm login
