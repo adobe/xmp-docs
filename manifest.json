@@ -11,7 +11,7 @@
     "base_path":"https://raw.githubusercontent.com",
     "pages":[  
         {  
-            "importedFileName":"XMPNamespaces",
+            "importedFileName":"XMPNamespaces", 
             "pages":[  
                 {  
                     "importedFileName":"Iptc4xmpCore",
@@ -233,7 +233,7 @@
                             "title":"timeScaleStretch"
                         }
                     ],
-                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ancestor.md",
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/XMP DataTypes.md",
                     "title":"Ancestor"
                 },
                 {  
