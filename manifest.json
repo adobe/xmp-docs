@@ -9,8 +9,16 @@
     "publish_date":"10/07/2018",
     "show_edit_github_banner":false,
     "base_path":"https://raw.githubusercontent.com",
-    "pages":[  
-        {  
+    "pages":[   
+            {  
+                "importedFileName":"README",
+                "pages":[  
+
+                ],
+                "path":"adobe/xmp-docs/master/README.md",
+                "title":"XMP Overview"
+            },
+            {
             "importedFileName":"XMPNamespaces", 
             "pages":[  
                 {  
@@ -20,221 +28,6 @@
                     ],
                     "path":"adobe/xmp-docs/master/XMPNamespaces/Iptc4xmpCore.md",
                     "title":"IPTC Core namespace"
-                },
-                {  
-                    "importedFileName":"XMPDataTypes",
-                    "pages":[  
-                        {  
-                            "importedFileName":"ancestor",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Ancestor.md",
-                            "title":"Ancestor"
-                        },
-                        {  
-                            "importedFileName":"CFAPattern",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CFAPattern.md",
-                            "title":"CFAPattern namespace"
-                        },
-                        {  
-                            "importedFileName":"Colorants",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Colorants.md",
-                            "title":"Colorant"
-                        },
-                        {  
-                            "importedFileName":"ContactInfo",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ContactInfo.md",
-                            "title":"ContactInfo"
-                        },
-                        {  
-                            "importedFileName":"CoreProperties",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CoreProperties.md",
-                            "title":"Core properties"
-                        },
-                        {  
-                            "importedFileName":"CuePointParam",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CuePointParam.md",
-                            "title":"CuePointParam"
-                        },
-                        {  
-                            "importedFileName":"DeviceSettings",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/DeviceSettings.md",
-                            "title":"DeviceSettings"
-                        },
-                        {  
-                            "importedFileName":"Dimensions",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Dimensions.md",
-                            "title":"Dimensions"
-                        },
-                        {  
-                            "importedFileName":"Flash",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Flash.md",
-                            "title":"Flash"
-                        },
-                        {  
-                            "importedFileName":"Font",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Font.md",
-                            "title":"Font"
-                        },
-                        {  
-                            "importedFileName":"Job",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Job.md",
-                            "title":"Job"
-                        },
-                        {  
-                            "importedFileName":"Layer",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Layer.md",
-                            "title":"Layer"
-                        },
-                        {  
-                            "importedFileName":"Marker",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Marker.md",
-                            "title":"Marker"
-                        },
-                        {  
-                            "importedFileName":"Media",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Media.md",
-                            "title":"Media"
-                        },
-                        {  
-                            "importedFileName":"OECF-SFR",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/OECF-SFR.md",
-                            "title":"OECF-SFR"
-                        },
-                        {  
-                            "importedFileName":"ProjectLink",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ProjectLink.md",
-                            "title":"ProjectLink"
-                        },
-                        {  
-                            "importedFileName":"ResourceEvent",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ResourceEvent.md",
-                            "title":"ResourceEvent"
-                        },
-                        {  
-                            "importedFileName":"ResourceRef",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ResourceRef.md",
-                            "title":"ResourceRef"
-                        },
-                        {  
-                            "importedFileName":"Thumbnails",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Thumbnails.md",
-                            "title":"Thumbnails"
-                        },
-                        {  
-                            "importedFileName":"Time",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Time.md",
-                            "title":"Time"
-                        },
-                        {  
-                            "importedFileName":"Timecode",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Timecode.md",
-                            "title":"Timecode"
-                        },
-                        {  
-                            "importedFileName":"Track",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Track.md",
-                            "title":"Track"
-                        },
-                        {  
-                            "importedFileName":"Version",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Version.md",
-                            "title":"Version"
-                        },
-                        {  
-                            "importedFileName":"beatSpliceStretch",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/beatSpliceStretch.md",
-                            "title":"beatSpliceStretch"
-                        },
-                        {  
-                            "importedFileName":"resampleStretch",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/resampleStretch.md",
-                            "title":"resampleStretch"
-                        },
-                        {  
-                            "importedFileName":"timeScaleStretch",
-                            "pages":[  
-
-                            ],
-                            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/timeScaleStretch.md",
-                            "title":"timeScaleStretch"
-                        }
-                    ],
-                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/XMP DataTypes.md",
-                    "title":"Ancestor"
                 },
                 {  
                     "importedFileName":"crs",
@@ -335,6 +128,221 @@
             ],
             "path":"adobe/xmp-docs/master/XMPNamespaces/Iptc4xmpCore.md",
             "title":"XMP Namespaces"
+        },
+        {  
+            "importedFileName":"XMPDataTypes",
+            "pages":[  
+                {  
+                    "importedFileName":"ancestor",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Ancestor.md",
+                    "title":"Ancestor"
+                },
+                {  
+                    "importedFileName":"CFAPattern",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CFAPattern.md",
+                    "title":"CFAPattern namespace"
+                },
+                {  
+                    "importedFileName":"Colorants",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Colorants.md",
+                    "title":"Colorant"
+                },
+                {  
+                    "importedFileName":"ContactInfo",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ContactInfo.md",
+                    "title":"ContactInfo"
+                },
+                {  
+                    "importedFileName":"CoreProperties",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CoreProperties.md",
+                    "title":"Core properties"
+                },
+                {  
+                    "importedFileName":"CuePointParam",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CuePointParam.md",
+                    "title":"CuePointParam"
+                },
+                {  
+                    "importedFileName":"DeviceSettings",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/DeviceSettings.md",
+                    "title":"DeviceSettings"
+                },
+                {  
+                    "importedFileName":"Dimensions",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Dimensions.md",
+                    "title":"Dimensions"
+                },
+                {  
+                    "importedFileName":"Flash",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Flash.md",
+                    "title":"Flash"
+                },
+                {  
+                    "importedFileName":"Font",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Font.md",
+                    "title":"Font"
+                },
+                {  
+                    "importedFileName":"Job",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Job.md",
+                    "title":"Job"
+                },
+                {  
+                    "importedFileName":"Layer",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Layer.md",
+                    "title":"Layer"
+                },
+                {  
+                    "importedFileName":"Marker",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Marker.md",
+                    "title":"Marker"
+                },
+                {  
+                    "importedFileName":"Media",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Media.md",
+                    "title":"Media"
+                },
+                {  
+                    "importedFileName":"OECF-SFR",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/OECF-SFR.md",
+                    "title":"OECF-SFR"
+                },
+                {  
+                    "importedFileName":"ProjectLink",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ProjectLink.md",
+                    "title":"ProjectLink"
+                },
+                {  
+                    "importedFileName":"ResourceEvent",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ResourceEvent.md",
+                    "title":"ResourceEvent"
+                },
+                {  
+                    "importedFileName":"ResourceRef",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/ResourceRef.md",
+                    "title":"ResourceRef"
+                },
+                {  
+                    "importedFileName":"Thumbnails",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Thumbnails.md",
+                    "title":"Thumbnails"
+                },
+                {  
+                    "importedFileName":"Time",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Time.md",
+                    "title":"Time"
+                },
+                {  
+                    "importedFileName":"Timecode",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Timecode.md",
+                    "title":"Timecode"
+                },
+                {  
+                    "importedFileName":"Track",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Track.md",
+                    "title":"Track"
+                },
+                {  
+                    "importedFileName":"Version",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Version.md",
+                    "title":"Version"
+                },
+                {  
+                    "importedFileName":"beatSpliceStretch",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/beatSpliceStretch.md",
+                    "title":"beatSpliceStretch"
+                },
+                {  
+                    "importedFileName":"resampleStretch",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/resampleStretch.md",
+                    "title":"resampleStretch"
+                },
+                {  
+                    "importedFileName":"timeScaleStretch",
+                    "pages":[  
+
+                    ],
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/timeScaleStretch.md",
+                    "title":"timeScaleStretch"
+                }
+            ],
+            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/XMPDataTypes.md",
+            "title":"XMP DataTypes"
         }
     ]
 }
