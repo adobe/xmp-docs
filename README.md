@@ -8,11 +8,11 @@ XMP standardizes a data model, a serialization format and core properties for th
 
 **XMP Specification is divided into *three* parts**
 
-[Part 1, Data Model, Serialization, and Core Properties](./XMPSpecifications/XMPSpecificationPart1.pdf)
+[Part 1, Data Model, Serialization, and Core Properties](https://github.com/adobe/xmp-docs/blob/master/XMPSpecifications/XMPSpecificationPart1.pdf)
 
-[Part 2, Additional Properties](./XMPSpecifications/XMPSpecificationPart2.pdf)
+[Part 2, Additional Properties](https://github.com/adobe/xmp-docs/blob/master/XMPSpecifications/XMPSpecificationPart2.pdf)
 
-[Part 3, Storage in Files](./XMPSpecifications/XMPSpecificationPart3.pdf)
+[Part 3, Storage in Files](https://github.com/adobe/xmp-docs/blob/master/XMPSpecifications/XMPSpecificationPart3.pdf)
 
 ## XMP namespace definitions 
 
