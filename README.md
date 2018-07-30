@@ -34,9 +34,9 @@ Since early 2012, XMP is also an [ISO standard (16684-1)](https://www.iso.org/ne
 [Metadata Working Group](http://www.metadataworkinggroup.org/)
 Learn more about how companies are getting together to build metadata interoperability across operating systems, mobile devices, cameras, and online services.
 
+<br/>
 
 **XMP SDKs**
 
 Adobe offers two SDKs for XMP, the XMP Toolkit SDK and the XMP Metadata UI SDK.
-
 The XMP Toolkit SDK allows you to integrate XMP functionality into your product or solution. The XMP Metadata UI SDK lets you modify Adobe Creative Cloud applications to display custom metadata UI to either adapt the existing UI to its own workflow or to be able to interact with custom metadata. [Learn more or download the SDKs now ›](https://www.adobe.com/devnet/xmp.html)
