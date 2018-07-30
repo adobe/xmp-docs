@@ -18,6 +18,14 @@
                 "path":"adobe/xmp-docs/master/README.md",
                 "title":"XMP Overview"
             },
+            {  
+                "importedFileName":"Specifications",
+                "pages":[  
+
+                ],
+                "path":"adobe/xmp-docs/master/Specifications.md",
+                "title":"XMP Specifications"
+            },
             {
             "importedFileName":"XMPNamespaces", 
             "pages":[  
@@ -126,7 +134,7 @@
                     "title":"XMP Paged-Text namespace"
                 }
             ],
-            "path":"adobe/xmp-docs/master/XMPNamespaces/Iptc4xmpCore.md",
+            "path":"adobe/xmp-docs/master/Namespaces.md",
             "title":"XMP Namespaces"
         },
         {  
