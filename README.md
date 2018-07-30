@@ -30,7 +30,6 @@ Since early 2012, XMP is also an [ISO standard (16684-1)](https://www.iso.org/ne
 **Highlights**
 
 [Metadata Working Group](http://www.metadataworkinggroup.org/)
-<br/>
 Learn more about how companies are getting together to build metadata interoperability across operating systems, mobile devices, cameras, and online services.
 
 <br/>
@@ -62,7 +61,6 @@ The Partners Guide to XMP for Dynamic Media provides guidance to developers writ
 
 [Partners Guide to XMP for Dynamic Media](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/xmp/pdfs/DynamicMediaXMPPartnerGuide.pdf)
 
-<br/>
 
 ## Overview of XMP technology
 
