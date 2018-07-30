@@ -1,5 +1,7 @@
-<img src="./xmp_tagline.png" width="200" align="middle">
-<br/>
+<img src="./xmp_tagline.png" width="150" align="right">
+
+# XMP (Extensible Metadata Platform) 
+
 
 Metadata is any data that helps describe the content or characteristics of a file. You may already be accustomed to viewing and adding some basic metadata through the File Info or Document Properties box found in many software applications and some operating systems. You may also use an asset or content management system (CMS) that captures some file properties and displays them for you.
 
@@ -30,10 +32,8 @@ Since early 2012, XMP is also an [ISO standard (16684-1)](https://www.iso.org/ne
 **Highlights**
 
 [Metadata Working Group](http://www.metadataworkinggroup.org/)
-<br/>
 Learn more about how companies are getting together to build metadata interoperability across operating systems, mobile devices, cameras, and online services.
 
-<br/>
 
 **XMP SDKs**
 
