@@ -8,7 +8,7 @@ A thumbnail image for a file.
 
 |Name|Description|Type|
 |----|-----------|----|
-|xmpGImg:format|The image encoding. Defined value: JPEG.  |Closed choice of [Text](./CoreProperties.md#Text)|
-|xmpGImg:height|Height in pixels  |[Integer](./CoreProperties.md#Integer)|
-|xmpGImg:width|Width in pixels  |[Integer](./CoreProperties.md#Integer)|
-|xmpGImg:image|The full thumbnail image data, converted to base 64 notation(according to section 6.8 of RFC 2045). This is the thumbnail data typically found in a digital image, such as the value of tag 513 in a JPEG stream.  |[Text](./CoreProperties.md#Text)|
+|xmpGImg:format|The image encoding. Defined value: JPEG.  |Closed choice of [Text](./CoreProperties.md#text)|
+|xmpGImg:height|Height in pixels  |[Integer](./CoreProperties.md#integer)|
+|xmpGImg:width|Width in pixels  |[Integer](./CoreProperties.md#integer)|
+|xmpGImg:image|The full thumbnail image data, converted to base 64 notation(according to section 6.8 of RFC 2045). This is the thumbnail data typically found in a digital image, such as the value of tag 513 in a JPEG stream.  |[Text](./CoreProperties.md#text)|

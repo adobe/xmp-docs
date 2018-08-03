@@ -8,8 +8,8 @@ Describes one version of a document.
 
 |Name|Description|Type|
 |----|-----------|----|
-|stVer:comments|Comments concerning what was changed  |[Text](./CoreProperties.md#Text)|
+|stVer:comments|Comments concerning what was changed  |[Text](./CoreProperties.md#text)|
 |stVer:event|High-level, formal description of what operation the user performed  |[ResourceEvent](./CoreProperties/ResourceEvent.md)|
-|stVer:modifier|The person who modified this version  |[ProperName](./CoreProperties.md#ProperName)|
-|stVer:modifyDate|The date on which this version was checked in  |[Date](./CoreProperties.md#Date)|
-|stVer:version|The new version number  |[Text](./CoreProperties.md#Text)|
+|stVer:modifier|The person who modified this version  |[ProperName](./CoreProperties.md#propername)|
+|stVer:modifyDate|The date on which this version was checked in  |[Date](./CoreProperties.md#date)|
+|stVer:version|The new version number  |[Text](./CoreProperties.md#text)|

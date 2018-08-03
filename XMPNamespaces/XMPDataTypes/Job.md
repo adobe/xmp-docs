@@ -8,6 +8,6 @@ Describes a job for a job-management system.
 
 |Name|Description|Type|
 |----|-----------|----|
-|stJob:id|Unique ID for the job. This field is a reference into some external job management system.  |[Text](./CoreProperties.md#Text)|
-|stJob:name|Informal name of job. This name is for user display and informal systems.  |[Text](./CoreProperties.md#Text)|
-|stJob:url|A file URL referencing an external job management file.  |[URL](./CoreProperties.md#URL)|
+|stJob:id|Unique ID for the job. This field is a reference into some external job management system.  |[Text](./CoreProperties.md#text)|
+|stJob:name|Informal name of job. This name is for user display and informal systems.  |[Text](./CoreProperties.md#text)|
+|stJob:url|A file URL referencing an external job management file.  |[URL](./CoreProperties.md#url)|

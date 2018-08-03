@@ -8,5 +8,5 @@ The type of a video file and path of the project that created it.
 
 |Name|Description|Type|
 |----|-----------|----|
-|xmpDM:path|Full path to the project that created this file  |[URI](./CoreProperties.md#URI)|
-|xmpDM:type|The file type. One of:movie,still,audio,custom  |Closed Choice of [Text](./CoreProperties.md#Text)|
+|xmpDM:path|Full path to the project that created this file  |[URI](./CoreProperties.md#uri)|
+|xmpDM:type|The file type. One of:movie,still,audio,custom  |Closed Choice of [Text](./CoreProperties.md#text)|

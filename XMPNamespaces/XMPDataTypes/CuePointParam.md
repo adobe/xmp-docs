@@ -8,5 +8,5 @@ A key-value pair describing a parameter of a cue-point [Marker](Marker.md).
 
 |Name|Description|Type|
 |----|-----------|----|
-|xmpDM:key|The key  |[Text](./CoreProperties.md#Text)|
-|xmpDM:value|The value  |[Text](./CoreProperties.md#Text)|
+|xmpDM:key|The key  |[Text](./CoreProperties.md#text)|
+|xmpDM:value|The value  |[Text](./CoreProperties.md#text)|

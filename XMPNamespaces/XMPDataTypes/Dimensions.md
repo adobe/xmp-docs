@@ -8,6 +8,6 @@ A structure containing dimensions for a drawn object.
 
 |Name|Description|Type|
 |----|-----------|----|
-|stDim:h|Height magnitude  |[Real](./CoreProperties.md#Real)|
-|stDim:w|Width magnitude  |[Real](./CoreProperties.md#Real)|
-|stDim:unit|Units. For example: inch, mm, pixel, pica, point.  |Open Choice of [Text](./CoreProperties.md#Text)|
+|stDim:h|Height magnitude  |[Real](./CoreProperties.md#real)|
+|stDim:w|Width magnitude  |[Real](./CoreProperties.md#real)|
+|stDim:unit|Units. For example: inch, mm, pixel, pica, point.  |Open Choice of [Text](./CoreProperties.md#text)|

@@ -8,4 +8,4 @@ A structure identifying a document that was copied or placed into the current do
 
 |Name|Description|Type|
 |----|-----------|----|
-|photoshop:AncestorID|The unique identifier of a document  |[URI](./CoreProperties.md#URI)|
+|photoshop:AncestorID|The unique identifier of a document  |[URI](./CoreProperties.md#uri)|

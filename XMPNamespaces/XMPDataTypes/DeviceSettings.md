@@ -8,6 +8,6 @@ A structure describing the device settings.
 
 |Name|Description|Type|
 |----|-----------|----|
-|exif:Columns|Display columns |[Integer](./CoreProperties.md#Integer)|
-|exif:Rows|Display rows  |[Integer](./CoreProperties.md#Integer)|
-|exif:Values|Camera settings, in order  |Ordered array of [Text](./CoreProperties.md#Text)|
+|exif:Columns|Display columns |[Integer](./CoreProperties.md#integer)|
+|exif:Rows|Display rows  |[Integer](./CoreProperties.md#integer)|
+|exif:Values|Camera settings, in order  |Ordered array of [Text](./CoreProperties.md#text)|
