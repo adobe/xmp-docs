@@ -173,14 +173,6 @@
                     "title":"ContactInfo"
                 },
                 {  
-                    "importedFileName":"CoreProperties",
-                    "pages":[  
-
-                    ],
-                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CoreProperties.md",
-                    "title":"Core properties"
-                },
-                {  
                     "importedFileName":"CuePointParam",
                     "pages":[  
 
@@ -349,7 +341,7 @@
                     "title":"timeScaleStretch"
                 }
             ],
-            "path":"#",
+            "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/CoreProperties.md",
             "title":"XMP DataTypes"
         }
     ]
