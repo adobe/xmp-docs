@@ -1,8 +1,8 @@
-# Core properties
+# XMP data types
 
-This page defines a collection of XMP properties that have broad applicability across domains of usage and digital file formats, along with data types that are used to represent values of these properties.
+This page defines a collection of XMP data types that are used to represent values of XMP properties
 
-## Basic value type
+## Basic types
 
 1.  ### Boolean
 
@@ -49,7 +49,7 @@ This page defines a collection of XMP properties that have broad applicability a
 
     A possibly empty Unicode string.
 
-## Derived value type
+## Derived types
 
 1.  ### Agent Name
 
