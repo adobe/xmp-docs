@@ -157,11 +157,11 @@
                     "title":"CFAPattern namespace"
                 },
                 {  
-                    "importedFileName":"Colorants",
+                    "importedFileName":"Colorant",
                     "pages":[  
 
                     ],
-                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Colorants.md",
+                    "path":"adobe/xmp-docs/master/XMPNamespaces/XMPDataTypes/Colorant.md",
                     "title":"Colorant"
                 },
                 {  
