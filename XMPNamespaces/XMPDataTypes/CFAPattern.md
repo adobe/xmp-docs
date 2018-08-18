@@ -1,4 +1,4 @@
-# CFAPattern namespace
+# CFAPattern
 
 A structure describing the CFA pattern.
 
